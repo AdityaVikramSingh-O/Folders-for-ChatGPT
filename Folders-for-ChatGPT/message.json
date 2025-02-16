@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Pin ChatGPT Chats",
+    "description": "The name of the extension."
+  },
+  "noPinnedChats": {
+    "message": "No pinned chats yet.",
+    "description": "Text displayed when there are no pinned chats in the sidebar."
+  },
+  "pinned": {
+    "message": "Pinned",
+    "description": "Header text for the pinned chats section in the sidebar."
+  },
+  "unpin": {
+    "message": "Unpin",
+    "description": "Text for the unpin action in context menus and buttons."
+  },
+  "pin": {
+    "message": "Pin",
+    "description": "Text for the pin action in context menus and buttons."
+  }
+}
